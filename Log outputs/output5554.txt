@@ -1,0 +1,178 @@
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): testing insert(if), Key: 0R1GY5wY4kvdvXkfpUYNCZFSGgt5pUwB Value: TvkbVJ2WPLITrVLWfg97khi8Jjm3FAXa device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): testing insert(if), Key: tELGWuQl8aEdaZ0n2DovrZWNHCHTcre5 Value: 1aBAJNOvWocIvLdI6hlO62iQH5PvD89r device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): testing insert(if), Key: Mj1dRcJ45FgK6zYFQO3YiOvbCj97d5Pg Value: 5HEgwX6ZWvyI0SrJlfsa3UqCKaZQ0Yr4 device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): testing insert(if), Key: vIBK4xVOBlGGTKiFr43DBEze9WjMazTc Value: SfCP1IqlXpXmamgX6zD51yF7XqhW8IiJ device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): Query function, Key: 0GixqRU35LVVTu9tSr16Sa5oQ6qlbEG0 Value: 
+D/test    ( 3620): Query function, Key: 0R1GY5wY4kvdvXkfpUYNCZFSGgt5pUwB Value: TvkbVJ2WPLITrVLWfg97khi8Jjm3FAXa
+D/test    ( 3620): Query function, Key: tELGWuQl8aEdaZ0n2DovrZWNHCHTcre5 Value: 1aBAJNOvWocIvLdI6hlO62iQH5PvD89r
+D/test    ( 3620): Query function, Key: Mj1dRcJ45FgK6zYFQO3YiOvbCj97d5Pg Value: 5HEgwX6ZWvyI0SrJlfsa3UqCKaZQ0Yr4
+D/test    ( 3620): Query function, Key: vIBK4xVOBlGGTKiFr43DBEze9WjMazTc Value: SfCP1IqlXpXmamgX6zD51yF7XqhW8IiJ
+D/test    ( 3620): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/0R1GY5wY4kvdvXkfpUYNCZFSGgt5pUwB Value: 
+D/test    ( 3620): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/tELGWuQl8aEdaZ0n2DovrZWNHCHTcre5 Value: 
+D/test    ( 3620): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/Mj1dRcJ45FgK6zYFQO3YiOvbCj97d5Pg Value: 
+D/test    ( 3620): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/vIBK4xVOBlGGTKiFr43DBEze9WjMazTc Value: 
+D/test    ( 3620): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/0R1GY5wY4kvdvXkfpUYNCZFSGgt5pUwB Value: 
+D/test    ( 3620): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/tELGWuQl8aEdaZ0n2DovrZWNHCHTcre5 Value: 
+D/test    ( 3620): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/Mj1dRcJ45FgK6zYFQO3YiOvbCj97d5Pg Value: 
+D/test    ( 3620): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/vIBK4xVOBlGGTKiFr43DBEze9WjMazTc Value: 
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 3620): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 3620): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 2 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 2 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): Adding to arraylist, device: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 2 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 3 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4029): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 2 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 3 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4029): Adding to arraylist, device: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4029): ArrayList: 0 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4029): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 2 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 3 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 4 succ: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4029): ArrayList: 0 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4029): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4029): ArrayList: 2 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4029): ArrayList: 3 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4029): ArrayList: 4 succ: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4029): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4029): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4148): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4148): Response from server(if): Received add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4148): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 2 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 2 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): Adding to arraylist, device: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 2 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 3 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4148): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 2 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 3 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4148): Adding to arraylist, device: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4148): ArrayList: 0 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4148): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 2 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 3 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 4 succ: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4148): ArrayList: 0 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 4148): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 4148): ArrayList: 2 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 5554
+D/test    ( 4148): ArrayList: 3 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4148): ArrayList: 4 succ: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 4447): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(else), Key: pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK Value: HtaGNJrFfkNHvFv28Ypndq62XPd9MTNb device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(if), Key: yywBVa2G4f0kibYpYom39Wb0BodaytD2 Value: ioAnG5mkQKJJfUFlFAOpDO4EXQIJ3P0S device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(if), Key: J13BVB18jQWxFcad3SlpFjrjnTN57B8u Value: 9QTF745UoJPkKkzLqIi91x6jw5KJzxyK device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(else), Key: kPm6iX1GuKjwyFA3Cb1g032DXmztpGlb Value: 8pC9AMZki762qKzmMakpNomsV7rZfPBW device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(if), Key: Y3RMTbqbYmI4YvjOW2UWVrBkHtVnZfaL Value: LipfvuHNqYIm7fQngz3F74oPidjZwte9 device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Query function, Key: pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK Value: 
+D/test    ( 4447): Query function, Key: yywBVa2G4f0kibYpYom39Wb0BodaytD2 Value: ioAnG5mkQKJJfUFlFAOpDO4EXQIJ3P0S
+D/test    ( 4447): Query function, Key: J13BVB18jQWxFcad3SlpFjrjnTN57B8u Value: 9QTF745UoJPkKkzLqIi91x6jw5KJzxyK
+D/test    ( 4447): Query function, Key: kPm6iX1GuKjwyFA3Cb1g032DXmztpGlb Value: 
+D/test    ( 4447): Query function, Key: Y3RMTbqbYmI4YvjOW2UWVrBkHtVnZfaL Value: LipfvuHNqYIm7fQngz3F74oPidjZwte9
+D/test    ( 4447): List of files: [Ljava.io.File;@b101b1b0
+D/test    ( 4447): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yywBVa2G4f0kibYpYom39Wb0BodaytD2 Value: 
+D/test    ( 4447): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/J13BVB18jQWxFcad3SlpFjrjnTN57B8u Value: 
+D/test    ( 4447): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/Y3RMTbqbYmI4YvjOW2UWVrBkHtVnZfaL Value: 
+D/test    ( 4447): List of files: [Ljava.io.File;@b1067408
+D/test    ( 4447): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yywBVa2G4f0kibYpYom39Wb0BodaytD2 Value: 
+D/test    ( 4447): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/J13BVB18jQWxFcad3SlpFjrjnTN57B8u Value: 
+D/test    ( 4447): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/Y3RMTbqbYmI4YvjOW2UWVrBkHtVnZfaL Value: 
+D/test    ( 4447): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): Sending message forward, message: insert;pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK;null
+D/test    ( 4447): ClientTask before sending(else): insert;pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK;null
+D/test    ( 4447): Size of list: 1
+D/test    ( 4447): testing insert(else), Key: pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK Value: null device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 4447): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 4447): Response from server(else): Received insert;pKJxJYTVcDYuN0h62mv1wZbkCOGtn8eK;null
+D/test    ( 4447): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 5069): Size of list: 1
+D/test    ( 5069): testing insert(if), Key: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRp device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): ClientTask before sending(if): add;11108;33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 5069): Size of list: 1
+D/test    ( 5069): testing insert(if), Key: Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN Value: N9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8 device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Size of list: 1
+D/test    ( 5069): testing insert(if), Key: UiLlHdd00XLiUv7AakWyLkVev6MmyrBf Value: SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uL device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Size of list: 1
+D/test    ( 5069): testing insert(if), Key: MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 Value: hcbZSmDv9nNzCjzJS22cxnWrNq8SmqxO device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Size of list: 1
+D/test    ( 5069): testing insert(if), Key: F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR Value: STyzlTl7SWpeX6vmQiQwhK9227OuPbHp device: 33d6357cfaaf0f72991b0ecd8c56da066613c089
+D/test    ( 5069): Query function, Key: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRp
+D/test    ( 5069): Query function, Key: Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN Value: N9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8
+D/test    ( 5069): Query function, Key: UiLlHdd00XLiUv7AakWyLkVev6MmyrBf Value: SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uL
+D/test    ( 5069): Query function, Key: MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 Value: hcbZSmDv9nNzCjzJS22cxnWrNq8SmqxO
+D/test    ( 5069): Query function, Key: F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR Value: STyzlTl7SWpeX6vmQiQwhK9227OuPbHp
+D/test    ( 5069): List of files: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN UiLlHdd00XLiUv7AakWyLkVev6MmyrBf MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR
+D/test    ( 5069): Query function(*), Key: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRp
+D/test    ( 5069): Query function(*), Key: Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8
+D/test    ( 5069): Query function(*), Key: UiLlHdd00XLiUv7AakWyLkVev6MmyrBf Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uL
+D/test    ( 5069): Query function(*), Key: MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uLhcbZSmDv9nNzCjzJS22cxnWrNq8SmqxO
+D/test    ( 5069): Query function(*), Key: F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uLhcbZSmDv9nNzCjzJS22cxnWrNq8SmqxOSTyzlTl7SWpeX6vmQiQwhK9227OuPbHp
+D/test    ( 5069): List of files: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN UiLlHdd00XLiUv7AakWyLkVev6MmyrBf MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR
+D/test    ( 5069): Query function(@), Key: lvQH7CssUfvfqTM2PUzMxyJDKBYN8jLA Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRp
+D/test    ( 5069): Query function(@), Key: Y1lYoGqhyIeJE8rTDMxenXDmQY5ynGXN Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8
+D/test    ( 5069): Query function(@), Key: UiLlHdd00XLiUv7AakWyLkVev6MmyrBf Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uL
+D/test    ( 5069): Query function(@), Key: MD3ooPONou1BiMpdkbpJOWh5tSkDAKh6 Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uLhcbZSmDv9nNzCjzJS22cxnWrNq8SmqxO
+D/test    ( 5069): Query function(@), Key: F010MOA0gX9qXzDHyM9dZ65sVTyPkcZR Value: gdKNCrNveCmaxY1fSc5woo39daCjWdRpN9Pi1ZmW2ewS9d8pfLvKVNPmzT1mByb8SiTaEg2aWtCNNsFgcXcukHJqmgXqU7uLhcbZSmDv9nNzCjzJS22cxnWrNq8SmqxOSTyzlTl7SWpeX6vmQiQwhK9227OuPbHp

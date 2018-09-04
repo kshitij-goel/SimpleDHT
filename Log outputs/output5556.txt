@@ -1,0 +1,141 @@
+D/test    ( 5133): Size of list: 1
+D/test    ( 5133): testing insert(if), Key: 9vGuekv4kb0ZJmu7H72jUKiPn206PG89 Value: KmKrJDSEmWadrdFfdeSzY2JDMpWyl4wQ device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5133): Size of list: 1
+D/test    ( 5133): testing insert(if), Key: dW50xJXrYZplTOkNIiI38QhVehgbMH3i Value: jAwQwd3CLwCZCuO3dtui7QMXoBkbTEl8 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5133): Query function, Key: QfMtxqSTzETQoOIb7UreSWa1eQJ1QZWa Value: rUx1gOTf3aCHPuRV1g89eAkA5l3T9s6D
+D/test    ( 5133): Query function, Key: RG7x4ohHFRvfULcwbdOK8T26si0dqTJu Value: MiED8q6zG7wq0nH6Scj1hrkjy34AGkdD
+D/test    ( 5133): Query function, Key: t1yaAttlR4lj6XUqenUNvB0oUjG294HJ Value: sNZN3SOrz56QjoJiXzlXyK9oAoHC2Sxl
+D/test    ( 5133): Query function, Key: 9vGuekv4kb0ZJmu7H72jUKiPn206PG89 Value: KmKrJDSEmWadrdFfdeSzY2JDMpWyl4wQ
+D/test    ( 5133): Query function, Key: dW50xJXrYZplTOkNIiI38QhVehgbMH3i Value: jAwQwd3CLwCZCuO3dtui7QMXoBkbTEl8
+D/test    ( 5133): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/QfMtxqSTzETQoOIb7UreSWa1eQJ1QZWa Value: 
+D/test    ( 5133): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/RG7x4ohHFRvfULcwbdOK8T26si0dqTJu Value: 
+D/test    ( 5133): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/t1yaAttlR4lj6XUqenUNvB0oUjG294HJ Value: 
+D/test    ( 5133): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/9vGuekv4kb0ZJmu7H72jUKiPn206PG89 Value: 
+D/test    ( 5133): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/dW50xJXrYZplTOkNIiI38QhVehgbMH3i Value: 
+D/test    ( 5133): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/QfMtxqSTzETQoOIb7UreSWa1eQJ1QZWa Value: 
+D/test    ( 5133): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/RG7x4ohHFRvfULcwbdOK8T26si0dqTJu Value: 
+D/test    ( 5133): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/t1yaAttlR4lj6XUqenUNvB0oUjG294HJ Value: 
+D/test    ( 5133): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/9vGuekv4kb0ZJmu7H72jUKiPn206PG89 Value: 
+D/test    ( 5133): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/dW50xJXrYZplTOkNIiI38QhVehgbMH3i Value: 
+D/test    ( 5133): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5133): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5133): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5133): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: yklJO73nBTOkBg5zE4KJDbdE2nmf27sV Value: t5M9xeE4gx2NvaS83GogVv7YQYuP0JME device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: 2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf Value: N62DJQCZsOw7lCMwCzaESetppHsNapmV device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: MFww10npmnPQ3NKctEJeLD8NRKSor7yE Value: oGtOrjHO2Wr7ArIB9BxBHb6aXcziKAwf device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: 84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 Value: YAX7JFIXOhd1k7oGYkGVDOBo4uOXgRmh device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: 0YpZaaW5hilGFEiUJL3eTTxDew1813A7 Value: zyvAC4aNFgLPovJns2y9J3LbwARmg5UG device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Query function, Key: yklJO73nBTOkBg5zE4KJDbdE2nmf27sV Value: t5M9xeE4gx2NvaS83GogVv7YQYuP0JME
+D/test    ( 5443): Query function, Key: 2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf Value: N62DJQCZsOw7lCMwCzaESetppHsNapmV
+D/test    ( 5443): Query function, Key: MFww10npmnPQ3NKctEJeLD8NRKSor7yE Value: oGtOrjHO2Wr7ArIB9BxBHb6aXcziKAwf
+D/test    ( 5443): Query function, Key: 84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 Value: YAX7JFIXOhd1k7oGYkGVDOBo4uOXgRmh
+D/test    ( 5443): Query function, Key: 0YpZaaW5hilGFEiUJL3eTTxDew1813A7 Value: zyvAC4aNFgLPovJns2y9J3LbwARmg5UG
+D/test    ( 5443): List of files: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yklJO73nBTOkBg5zE4KJDbdE2nmf27sV /data/data/edu.buffalo.cse.cse486586.simpledht/files/2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf /data/data/edu.buffalo.cse.cse486586.simpledht/files/MFww10npmnPQ3NKctEJeLD8NRKSor7yE /data/data/edu.buffalo.cse.cse486586.simpledht/files/84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 /data/data/edu.buffalo.cse.cse486586.simpledht/files/0YpZaaW5hilGFEiUJL3eTTxDew1813A7
+D/test    ( 5443): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yklJO73nBTOkBg5zE4KJDbdE2nmf27sV Value: 
+D/test    ( 5443): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf Value: 
+D/test    ( 5443): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/MFww10npmnPQ3NKctEJeLD8NRKSor7yE Value: 
+D/test    ( 5443): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 Value: 
+D/test    ( 5443): Query function(*), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/0YpZaaW5hilGFEiUJL3eTTxDew1813A7 Value: 
+D/test    ( 5443): List of files: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yklJO73nBTOkBg5zE4KJDbdE2nmf27sV /data/data/edu.buffalo.cse.cse486586.simpledht/files/2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf /data/data/edu.buffalo.cse.cse486586.simpledht/files/MFww10npmnPQ3NKctEJeLD8NRKSor7yE /data/data/edu.buffalo.cse.cse486586.simpledht/files/84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 /data/data/edu.buffalo.cse.cse486586.simpledht/files/0YpZaaW5hilGFEiUJL3eTTxDew1813A7
+D/test    ( 5443): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/yklJO73nBTOkBg5zE4KJDbdE2nmf27sV Value: 
+D/test    ( 5443): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/2ZGvWfDp36Vsi92cLRebf0j8czQpMFYf Value: 
+D/test    ( 5443): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/MFww10npmnPQ3NKctEJeLD8NRKSor7yE Value: 
+D/test    ( 5443): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/84QeBXOsxsk7xQa25E7ef9jUTJTLfZe4 Value: 
+D/test    ( 5443): Query function(@), Key: /data/data/edu.buffalo.cse.cse486586.simpledht/files/0YpZaaW5hilGFEiUJL3eTTxDew1813A7 Value: 
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: key0 Value: val0 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Query function, Key: key0 Value: val0
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: key0 Value: val0 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Query function, Key: key0 Value: val0
+D/test    ( 5443): Size of list: 1
+D/test    ( 5443): testing insert(if), Key: key0 Value: val0 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5443): Query function, Key: key0 Value: val0
+D/test    ( 5671): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 5671): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key0 Value: val0 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key1 Value: val1 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key2 Value: val2 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key3 Value: val3 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key4 Value: val4 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key5 Value: val5 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key6 Value: val6 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key7 Value: val7 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key8 Value: val8 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Size of list: 1
+D/test    ( 5671): testing insert(if), Key: key9 Value: val9 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): Query function, Key: key0 Value: val0
+D/test    ( 5671): Query function, Key: key1 Value: val1
+D/test    ( 5671): Query function, Key: key2 Value: val2
+D/test    ( 5671): Query function, Key: key3 Value: val3
+D/test    ( 5671): Query function, Key: key4 Value: val4
+D/test    ( 5671): Query function, Key: key5 Value: val5
+D/test    ( 5671): Query function, Key: key6 Value: val6
+D/test    ( 5671): Query function, Key: key7 Value: val7
+D/test    ( 5671): Query function, Key: key8 Value: val8
+D/test    ( 5671): Query function, Key: key9 Value: val9
+D/test    ( 5671): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5671): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 5853): Size of list: 1
+D/test    ( 5853): testing insert(if), Key: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 Value: DGPUbYPtmL0CDcIrS4Ggz7yGaL4Hpfi1 device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 5853): Size of list: 1
+D/test    ( 5853): testing insert(if), Key: HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Value: mJ5Xr0ocFdWN3J48ItrRPGb4nrroKWXW device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Size of list: 1
+D/test    ( 5853): testing insert(if), Key: Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc Value: sO7wFLUMJXCTNq1VeogLlAOeit2jUsIc device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Size of list: 1
+D/test    ( 5853): testing insert(if), Key: gK2l671QVqY8efDE58AQVFBg4BlfEaJb Value: NPjt0y4XM3ffvLDD6vfWrBgrnDtqlzwo device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Size of list: 1
+D/test    ( 5853): testing insert(if), Key: T7Xziek8llIOV5vOxL577ev9eNG2tFRr Value: FgrxDp9eQKDXBLdQabmhHCB4tsmfPjGs device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): Query function, Key: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 Value: DGPUbYPtmL0CDcIrS4Ggz7yGaL4Hpfi1
+D/test    ( 5853): Query function, Key: HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Value: mJ5Xr0ocFdWN3J48ItrRPGb4nrroKWXW
+D/test    ( 5853): Query function, Key: Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc Value: sO7wFLUMJXCTNq1VeogLlAOeit2jUsIc
+D/test    ( 5853): Query function, Key: gK2l671QVqY8efDE58AQVFBg4BlfEaJb Value: NPjt0y4XM3ffvLDD6vfWrBgrnDtqlzwo
+D/test    ( 5853): Query function, Key: T7Xziek8llIOV5vOxL577ev9eNG2tFRr Value: FgrxDp9eQKDXBLdQabmhHCB4tsmfPjGs
+D/test    ( 5853): List of files: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc gK2l671QVqY8efDE58AQVFBg4BlfEaJb T7Xziek8llIOV5vOxL577ev9eNG2tFRr
+D/test    ( 5853): Query function(*), Key: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 Value: 
+D/test    ( 5853): Query function(*), Key: HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Value: 
+D/test    ( 5853): Query function(*), Key: Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc Value: 
+D/test    ( 5853): Query function(*), Key: gK2l671QVqY8efDE58AQVFBg4BlfEaJb Value: 
+D/test    ( 5853): Query function(*), Key: T7Xziek8llIOV5vOxL577ev9eNG2tFRr Value: 
+D/test    ( 5853): List of files: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc gK2l671QVqY8efDE58AQVFBg4BlfEaJb T7Xziek8llIOV5vOxL577ev9eNG2tFRr
+D/test    ( 5853): Query function(@), Key: DXf0VdAsGGYafAom0C4mdVc5kg7QrVR2 Value: 
+D/test    ( 5853): Query function(@), Key: HVEe8YV8TZ8pRTYncO6DLQgMXzjOCav0 Value: 
+D/test    ( 5853): Query function(@), Key: Ed8aCrZONpHOSISpO7K7qeNcdZ1ECdwc Value: 
+D/test    ( 5853): Query function(@), Key: gK2l671QVqY8efDE58AQVFBg4BlfEaJb Value: 
+D/test    ( 5853): Query function(@), Key: T7Xziek8llIOV5vOxL577ev9eNG2tFRr Value: 
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 5853): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 6114): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 6114): Size of list: 1
+D/test    ( 6114): testing insert(if), Key: uPVn5u2Qaa2n9tkAFM7a007cy0soAzUi Value: HHcWsPiKZiTE5J1BDUSLyD01mWfBpBay device: 208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 6114): ClientTask before sending(if): add;11112;208f7f72b198dadd244e61801abe1ec3a4857bc9
+D/test    ( 6114): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112

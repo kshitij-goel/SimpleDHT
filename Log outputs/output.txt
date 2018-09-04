@@ -1,0 +1,39 @@
+D/test    ( 2963): Adding to arraylist, device: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): Adding to arraylist, device: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 2963): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 2963): ArrayList: 1 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 2963): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 2963): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): ArrayList: 2 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 2963): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): Response from server: Received add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): Response from server: Received add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): Response from server: Received add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): Adding to arraylist, device: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 2963): Response from server: Received add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 2963): ArrayList: 0 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 2963): ArrayList: 1 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): ArrayList: 2 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 2963): ArrayList: 3 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 2963): Adding to arraylist, device: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 2963): ArrayList: 0 succ: 208f7f72b198dadd244e61801abe1ec3a4857bc9 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 id: 11124
+D/test    ( 2963): ArrayList: 1 succ: 33d6357cfaaf0f72991b0ecd8c56da066613c089 pred: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 hid: 208f7f72b198dadd244e61801abe1ec3a4857bc9 id: 11112
+D/test    ( 2963): ArrayList: 2 succ: abf0fd8db03e5ecb199a9b82929e9db79b909643 pred: 208f7f72b198dadd244e61801abe1ec3a4857bc9 hid: 33d6357cfaaf0f72991b0ecd8c56da066613c089 id: 11108
+D/test    ( 2963): ArrayList: 3 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: 33d6357cfaaf0f72991b0ecd8c56da066613c089 hid: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 2963): ArrayList: 4 succ: 177ccecaec32c54b82d5aaafc18a2dadb753e3b1 pred: abf0fd8db03e5ecb199a9b82929e9db79b909643 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 3283): Query function, Key: pg09F58jRdIBFkB1omKiS5cBJuNl0LDD Value: 
+D/test    ( 3283): Query function, Key: NiWVN0ZMnSBYAOlSKmIGa72h0pnwCRqb Value: 
+D/test    ( 3283): Query function, Key: Oon07v3WGCvXCHfXIOHdI3PVBzsz1kYD Value: 
+D/test    ( 3283): Query function, Key: hpZLX4HnO9pp6dP9TIffdJ3cjPNCUS3U Value: 
+D/test    ( 3283): Query function, Key: SuhF3x7H05OkFbGiOCc8noqFixxfNctW Value: 
+D/test    ( 3283): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 3283): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 3283): ClientTask before sending: add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12
+D/test    ( 3283): Adding to arraylist, device: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 3283): ArrayList: 0 succ: c25ddd596aa7c81fa12378fa725f706d54325d12 pred: c25ddd596aa7c81fa12378fa725f706d54325d12 hid: c25ddd596aa7c81fa12378fa725f706d54325d12 id: 11120
+D/test    ( 3283): Response from server: Received add;11120;c25ddd596aa7c81fa12378fa725f706d54325d12

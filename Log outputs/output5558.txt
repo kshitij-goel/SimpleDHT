@@ -1,0 +1,73 @@
+D/test    ( 2947): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 2947): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 2947): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 2947): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): Query function, Key: CbU2Awi32lLlDtPC91CNbnJcBByBcOaz Value: 
+D/test    ( 3117): Query function, Key: 5SOvp9NaE2KnTwHSyHhCw4Bd7UxrMxQs Value: 
+D/test    ( 3117): Query function, Key: YmfquIVvHLqGzK0qLfyOCI33fczLnDZL Value: 
+D/test    ( 3117): Query function, Key: JaBkXRIkArl4gbEmJYzCZPLtgP5UbmAN Value: 
+D/test    ( 3117): Query function, Key: esQq0ny0hLGn55D4v7zU3GWRjUzCIfBI Value: 
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3117): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): Size of list: 0
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): Size of list: 0
+D/test    ( 3461): Size of list: 0
+D/test    ( 3461): Size of list: 0
+D/test    ( 3461): Size of list: 0
+D/test    ( 3461): Query function, Key: sWmrztVhissBegCgfec3HwOneHyizHcu Value: 
+D/test    ( 3461): Query function, Key: sLH0QqDPawWMooq7MPmxdKDne2KN9HXQ Value: 
+D/test    ( 3461): Query function, Key: qgE5SRDTT7QEDdUQ1tutANdOjTMt8bEz Value: 
+D/test    ( 3461): Query function, Key: lsm5PqxCIIOU8FlWj1cgvFr7nsinz8Rt Value: 
+D/test    ( 3461): Query function, Key: 0wyTsQ65wVaFHUEtydOcUulr07iRQJd8 Value: 
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3461): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3700): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 5558
+D/test    ( 3849): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 3849): Response from server(if): Received add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4164): Size of list: 1
+D/test    ( 4164): testing insert(else), Key: Bbw7SSSrqBMzuLa32FByod9qxvbJO72N Value: 8SfH7NZuVBWV2xkGPn1QevFTLKd03ZF2 device: abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Adding to arraylist, device: abf0fd8db03e5ecb199a9b82929e9db79b909643 id: 11116
+D/test    ( 4164): ClientTask before sending(if): add;11116;abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Sending message forward, message: insert;Bbw7SSSrqBMzuLa32FByod9qxvbJO72N;null
+D/test    ( 4164): Size of list: 1
+D/test    ( 4164): testing insert(if), Key: lWECHZhue9bmkOxEENL0Zrr6AriIhNNy Value: vzCVxGl2aRkksBqGJfbtcux8lYjrH41A device: abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Size of list: 1
+D/test    ( 4164): testing insert(else), Key: GCsteHVg4Qv8s55wY43rPLPBAmLt8pir Value: qBRPQ0mFFljC9NSWyJhwsjIfts5aDUjz device: abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Size of list: 1
+D/test    ( 4164): testing insert(else), Key: o4Sgtb8pgETsl0MgZJ398ZTyZ4BSNEuU Value: TNqm1we1zelSdnP2q3g5HayQ8JWHtK5J device: abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Size of list: 1
+D/test    ( 4164): testing insert(else), Key: Ephm2HoqV8eQA9WMuwxZNDbmxeUHFOr7 Value: H2GL8vQBML7oT8xmHYsTSM9Ze9TFvUJV device: abf0fd8db03e5ecb199a9b82929e9db79b909643
+D/test    ( 4164): Query function, Key: Bbw7SSSrqBMzuLa32FByod9qxvbJO72N Value: 
+D/test    ( 4164): Query function, Key: lWECHZhue9bmkOxEENL0Zrr6AriIhNNy Value: vzCVxGl2aRkksBqGJfbtcux8lYjrH41A
+D/test    ( 4164): Query function, Key: GCsteHVg4Qv8s55wY43rPLPBAmLt8pir Value: 
+D/test    ( 4164): Query function, Key: o4Sgtb8pgETsl0MgZJ398ZTyZ4BSNEuU Value: 
+D/test    ( 4164): Query function, Key: Ephm2HoqV8eQA9WMuwxZNDbmxeUHFOr7 Value: 
